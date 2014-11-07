@@ -1,0 +1,9 @@
+U:\01開発\for disctop\timer\timer\bin\Debug\timer.exe.config
+U:\01開発\for disctop\timer\timer\bin\Debug\timer.exe
+U:\01開発\for disctop\timer\timer\bin\Debug\timer.pdb
+U:\01開発\for disctop\timer\timer\obj\Debug\timer.csprojResolveAssemblyReference.cache
+U:\01開発\for disctop\timer\timer\obj\Debug\timer.Form1.resources
+U:\01開発\for disctop\timer\timer\obj\Debug\timer.Properties.Resources.resources
+U:\01開発\for disctop\timer\timer\obj\Debug\timer.csproj.GenerateResource.Cache
+U:\01開発\for disctop\timer\timer\obj\Debug\timer.exe
+U:\01開発\for disctop\timer\timer\obj\Debug\timer.pdb
